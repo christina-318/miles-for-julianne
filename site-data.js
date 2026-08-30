@@ -1,0 +1,31 @@
+/*
+ * EDIT THIS FILE to update fundraising totals, links, and the supporter wall.
+ * Confirmed raised and pending employer matching must always remain separate.
+ */
+window.SITE_DATA = {
+  goal: 3000,
+  confirmedRaised: 500,
+  pendingMatch: 500,
+
+  campaignNote: "Julianne London 2027",
+  venmoUsername: "christina0318",
+  venmoUrl: "https://venmo.com/u/christina0318",
+  officialFundraisingUrl: "https://justgiving.com/page/christinalee",
+  foundationUrl: "https://mollyrosefoundation.org",
+
+  contributionFormUrl: "https://forms.gle/ZRbpAAGjjGLEJB5N8",
+
+  /* Optional launch-day message from the final copy document. */
+  showLaunchCallout: false,
+
+  supporters: [
+    {
+      name: "Kevin K.",
+      contribution: 500,
+      matchAmount: 500,
+      matchStatus: "pending",
+      employer: "",
+      note: "",
+    },
+  ],
+};
