@@ -22,6 +22,7 @@ window.SITE_DATA = {
     {
       name: "Kevin K.",
       contribution: 500,
+      date: "August 2026",
       matchAmount: 500,
       matchStatus: "pending",
       employer: "",

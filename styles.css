@@ -249,6 +249,7 @@ figure { margin-top: 0; }
 .supporter__identity h3 { margin: 0; font-family: var(--serif); font-size: 24px; font-weight: 600; }
 .supporter__identity p,
 .supporter__match { margin: 3px 0 0; color: var(--muted); font-size: 13px; }
+.supporter__date { display: block; margin-top: 2px; color: var(--muted); font-size: 11px; letter-spacing: .025em; line-height: 1.45; }
 .supporter__note { max-width: 620px; margin-top: 8px !important; color: var(--ink-soft) !important; font-family: var(--serif); font-size: 15px !important; font-style: italic; line-height: 1.5; }
 .match-badge { display: inline-flex; align-items: center; border: 1px solid #b896ba; padding: 7px 11px; color: #704672; font-size: 11px; font-weight: 760; white-space: nowrap; }
 .match-badge--confirmed { border-color: #99b19a; color: #436846; }

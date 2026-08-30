@@ -80,6 +80,12 @@
       const contribution = document.createElement("p");
       contribution.textContent = `${currency.format(supporter.contribution)} confirmed contribution`;
       identity.append(name, contribution);
+      if (supporter.date) {
+        const date = document.createElement("span");
+        date.className = "supporter__date";
+        date.textContent = supporter.date;
+        identity.append(date);
+      }
       if (supporter.note) {
         const note = document.createElement("p");
         note.className = "supporter__note";
