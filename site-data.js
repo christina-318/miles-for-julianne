@@ -25,7 +25,7 @@ window.SITE_DATA = {
       matchAmount: 500,
       matchStatus: "pending",
       employer: "",
-      note: "",
+      note: "LFG!!! 💥 🎉",
     },
   ],
 };
