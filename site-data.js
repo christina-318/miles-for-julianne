@@ -4,7 +4,7 @@
  */
 window.SITE_DATA = {
   goal: 3000,
-  confirmedRaised: 1000,
+  confirmedRaised: 1100,
   pendingMatch: 1000,
 
   campaignNote: "Julianne London 2027",
@@ -19,6 +19,15 @@ window.SITE_DATA = {
   showLaunchCallout: false,
 
   supporters: [
+    {
+      name: "Anonymous",
+      contribution: 100,
+      date: "August 2026",
+      matchAmount: 0,
+      matchStatus: "",
+      employer: "",
+      note: "",
+    },
     {
       name: "William N.",
       contribution: 500,
