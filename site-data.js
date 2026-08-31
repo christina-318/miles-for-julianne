@@ -4,8 +4,8 @@
  */
 window.SITE_DATA = {
   goal: 3000,
-  confirmedRaised: 1948,
-  pendingMatch: 1948,
+  confirmedRaised: 1978,
+  pendingMatch: 1978,
 
   campaignNote: "Julianne London 2027",
   venmoUsername: "christina0318",
@@ -135,6 +135,15 @@ window.SITE_DATA = {
       matchStatus: "pending",
       employer: "",
       note: "I’m inspired by how through the pain you've continued to shine bright. I know how hard it must be to even smile but you've done such a great job. Thanks for sharing Julianne’s story - best of luck in London!",
+    },
+    {
+      name: "Hope S.",
+      contribution: 30,
+      date: "August 2026",
+      matchAmount: 30,
+      matchStatus: "pending",
+      employer: "",
+      note: "❤️❤️❤️",
     },
   ],
 };
