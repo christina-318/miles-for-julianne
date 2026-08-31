@@ -4,7 +4,7 @@
  */
 window.SITE_DATA = {
   goal: 3000,
-  confirmedRaised: 2583,
+  confirmedRaised: 2683,
   pendingMatch: 2383,
 
   campaignNote: "Julianne London 2027",
@@ -164,7 +164,7 @@ window.SITE_DATA = {
       note: "",
     },
     {
-      name: "Anonymous",
+      name: "Ariane E.",
       contribution: 25,
       date: "August 2026",
       matchAmount: 25,
@@ -189,6 +189,15 @@ window.SITE_DATA = {
       matchStatus: "pending",
       employer: "",
       note: "",
+    },
+    {
+      name: "Kate P.",
+      contribution: 100,
+      date: "August 2026",
+      matchAmount: 0,
+      matchStatus: "",
+      employer: "",
+      note: "You make Julianne proud every day! 💖",
     },
   ],
 };
