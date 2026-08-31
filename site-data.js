@@ -4,8 +4,8 @@
  */
 window.SITE_DATA = {
   goal: 3000,
-  confirmedRaised: 1450,
-  pendingMatch: 1450,
+  confirmedRaised: 1750,
+  pendingMatch: 1750,
 
   campaignNote: "Julianne London 2027",
   venmoUsername: "christina0318",
@@ -19,6 +19,24 @@ window.SITE_DATA = {
   showLaunchCallout: false,
 
   supporters: [
+    {
+      name: "Lou L.",
+      contribution: 250,
+      date: "August 2026",
+      matchAmount: 250,
+      matchStatus: "pending",
+      employer: "",
+      note: "May Julianne's memory continue to open doors for others who are struggling. Proud to support this cause.",
+    },
+    {
+      name: "Anonymous",
+      contribution: 50,
+      date: "August 2026",
+      matchAmount: 50,
+      matchStatus: "pending",
+      employer: "",
+      note: "",
+    },
     {
       name: "Anonymous",
       contribution: 100,
